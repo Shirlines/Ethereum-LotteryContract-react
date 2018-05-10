@@ -1,2 +1,2 @@
 # Ethereum-LotteryContract-react
-Second 
+Second Ethereum smart contract with Mocha tests and React front-end
